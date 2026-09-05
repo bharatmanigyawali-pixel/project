@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "भूमि ज्ञान",
+      "hasCanvas": false,
+      "bodyTextLen": 1831,
+      "bodyTextHash": "f76404aa4fdedd50839f30819d5fed96f2a62f554d4d5e768e12b0952e54c3af",
+      "bodyTextPrefix": "भूमि ज्ञान चार चरण स्ट्याटस जनचेतना · वास्तु परामर्श खाल्डोमा पा",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "भूमि ज्ञान",
+      "hasCanvas": false,
+      "bodyTextLen": 1831,
+      "bodyTextHash": "f76404aa4fdedd50839f30819d5fed96f2a62f554d4d5e768e12b0952e54c3af",
+      "bodyTextPrefix": "भूमि ज्ञान चार चरण स्ट्याटस जनचेतना · वास्तु परामर्श खाल्डोमा पा",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
